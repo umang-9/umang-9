@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name us Umang Patel. 
+
+I am a Front End Developer.
+
+🤝  I'm open to collaborating on interesting projects as a developer
 
 <!--
 **umang-9/umang-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
